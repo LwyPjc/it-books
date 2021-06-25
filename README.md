@@ -44,9 +44,44 @@ IT书籍
 * 鸟哥的Linux私房菜服务器架设篇(第三版).pdf
 
 
+## 英文书籍
 
-
-
+* Algorithms, 4th Edition(算法，第四版).pdf
+* AspectJ in Action_ Enterprise AOP with Spring Applications, 2nd Edition ( PDFDrive ).pdf
+* code-complete-2nd-edition-v413hav.pdf
+* Computer System_EN_2rd.pdf
+* Craig Walls - Spring in Action 4th Edition - 2014.pdf
+* Effective.Java.3rd.Edition.pdf
+* Hands-On Reactive Programming in Spring 5.pdf
+* How Tomcat Works 英文版.pdf
+* Introduction_to_algorithms-3rd Edition.pdf
+* James-Kurose-Keith-Ross-Computer-Networking_-A-Top-Down-Approach-7th-Edition计算机网络自顶向下.pdf
+* java concurrency in practice.pdf
+* Java Network Programming, 4th Edition.pdf
+* jls8.规范.pdf
+* jvms8虚拟机规范.pdf
+* Modern Java in Action, 2nd Edition.pdf
+* MySQL Cookbook, 3rd Edition.pdf
+* O'Reilly.High.Performance.MySQL.3rd.Edition.Mar.2012.pdf
+* On java 8 英语版  (Bruce Eckel).pdf
+* oreilly-java-performance-the-definitive-guide-2014.pdf
+* Prentice.Hall.Core.Java.Volume.I.Fundamentals.10th.Edition.0134177304.pdf
+* Prentice.Hall.Core.Java.Volume.I.Fundamentals.11th.Edition.pdf
+* Prentice.Hall.Core.Java.Volume.II.Advanced.Features.10th.Edition.0134177290.pdf
+* Prentice.Hall.Core.Java.Volume.II.Advanced.Features.11th.Edition.pdf
+* Programming_pearls.pdf
+* Python Cookbook.pdf
+* RabbitMQ in Depth ( PDFDrive ).pdf
+* Randal E. Bryant, David R. O’Hallaron - Computer Systems. A Programmer’s Perspective [3rd ed.] (2016, Pearson).pdf
+* Redis-in-Action.pdf
+* Refactoring-Improving-the-Design-of-Existing-Code-Addison-Wesley-Professional-1999.pdf
+* Spring in Action, 5th Edition.pdf
+* SQL in 10 Minutes, Sams Teach Yourself (4th Edition)sql必知必会.pdf
+* theCleanCoder.pdf
+* [O`Reilly. Head First] - Head First Design Patterns - [Freeman].pdf
+* [O`Reilly] - Art of Concurrency - [Breshears].pdf
+* [O`Reilly] - Beautiful Code - [Oram, Wilson].pdf
+* 英文第二版-Programming.Pearls.pdf
 
 
 
